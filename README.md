@@ -22,9 +22,9 @@ This is a mobile financial service charge calculator. You can calculate your eve
 
 ### For Downloading this App
 
-[![Download](https://img.shields.io/badge/Donwload-Download-brightgreen)](https://drive.google.com/drive/folders/16OmwVKblBXEZKIVrp9lm-0f5NCZteJup)
+[![Download](https://img.shields.io/badge/Download-brightgreen)](https://drive.google.com/drive/folders/16OmwVKblBXEZKIVrp9lm-0f5NCZteJup)
   
 ### For any query :
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nh_404)
-[![Email](https://img.shields.io/badge/Email-Email-blue)](nh.404@outlook.com)
+[![Email](https://img.shields.io/badge/Email-bluestyle=for-the-badge&logo=telegram&logoColor=white)](nh.404@outlook.com)
