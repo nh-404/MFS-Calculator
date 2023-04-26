@@ -27,4 +27,4 @@ This is a mobile financial service charge calculator. You can calculate your eve
 ### For any query :
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nh_404)
-[![Email](https://img.shields.io/badge/Email-bluestyle=for-the-badge&logo=telegram&logoColor=white)](nh.404@outlook.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://nh.404@outlook.com)
