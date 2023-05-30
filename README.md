@@ -16,7 +16,8 @@ This is a mobile financial service charge calculator. You can calculate your eve
 
 <div align= "center">
   
-<img src = "https://github.com/nh-404/MFS-Calculator/blob/fc039bd162056dd460474fcf947c465375c32f14/MFS%20SS.jpg">
+<img src = "MFS SS1.jpg">
+<img src = "MFS SS2.jpg">
  
 </div>
 
