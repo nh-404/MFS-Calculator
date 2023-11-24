@@ -16,8 +16,7 @@ It is a mobile financial service charge calculator app. You can calculate your e
 
 <div align= "center">
   
-<img src = "MFS SS1.jpg">
-<img src = "MFS SS2.jpg">
+<img src = "MFSCALC_UI.png">
  
 </div>
 
