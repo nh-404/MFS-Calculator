@@ -23,7 +23,7 @@ It is a mobile financial service charge calculator app. You can calculate your e
 
 ### Download the app
 
-[![Download](https://img.shields.io/badge/Download-brightgreen)](https://drive.google.com/drive/folders/16OmwVKblBXEZKIVrp9lm-0f5NCZteJup)
+[![Download]([https://img.shields.io/badge/Download-brightgreen)](https://drive.google.com/drive/folders/16OmwVKblBXEZKIVrp9lm-0f5NCZteJup](https://drive.google.com/file/d/1Zzjlu8zHsqkKT1pzSmu-DgDbKvnFCCeo/view?usp=sharing))
   
 ### For any query :
 
