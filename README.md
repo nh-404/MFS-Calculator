@@ -1,4 +1,4 @@
-<div aligb = "center">
+<div aligm = "center">
 
 <img src = "https://github.com/nh-404/MFS-Calculator/blob/1f0755fe076a9cd369f32cd703c07157036fe3ca/mfsCal.png">
 
@@ -6,13 +6,12 @@
 
 # MFS-Calculator (APK)
 
-It is a mobile financial service charge calculator app. You can calculate your every Bangladeshi MFS provider ( bkash, nagad, rocket) cashout charge in one app.
+The MFS-Calculator is a mobile app designed for calculating financial service charges in Bangladesh. With this app, you can easily calculate the cash-out charges for all major Bangladeshi MFS providers, including bKash, Nagad, and Rocket, all in one place.
 
 ### Note:
 
-<br> ➡️ This app is valid for only Bangladeshi MFS charge calculation. </br>
-<br> ➡️ This app support on (Android version 4+) devices 
-
+- This app is exclusively for Bangladeshi MFS charge calculations. <br> 
+- The app supports Android devices running version 4.0 or higher. <br> 
 
 <div align= "center">
   
@@ -24,6 +23,12 @@ It is a mobile financial service charge calculator app. You can calculate your e
 ### Download the app
 
 [![Download](https://img.shields.io/badge/Download-brightgreen)](https://github.com/nh-404/MFS-Calculator/releases/tag/v1.1.4)
+
+
+### Web Version
+
+[![Website](https://img.shields.io/badge/Website-red)](https://mfs-calc.github.io)
+
   
 ### For any query :
 
