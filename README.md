@@ -1,4 +1,4 @@
-<div aligm = "center">
+<div align = "center">
 
 <img src = "https://github.com/nh-404/MFS-Calculator/blob/1f0755fe076a9cd369f32cd703c07157036fe3ca/mfsCal.png">
 
@@ -22,7 +22,7 @@ The MFS-Calculator is a mobile app designed for calculating financial service ch
 
 ### Download the app
 
-[![Download](https://img.shields.io/badge/Download-brightgreen)](https://github.com/nh-404/MFS-Calculator/releases/tag/v1.1.4)
+[![Download](https://img.shields.io/badge/Download-brightgreen)](https://github.com/nh-404/MFS-Calculator/releases/download/v1.1.4/MFS.Calculatior_v1.1.4.apk)
 
 
 ### Web Version
